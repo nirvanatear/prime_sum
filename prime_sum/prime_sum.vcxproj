@@ -86,6 +86,7 @@
   <ItemGroup>
     <ClCompile Include="eratosthenes.cpp" />
     <ClCompile Include="prime_sum.cpp" />
+    <ClCompile Include="rabin_miller.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>

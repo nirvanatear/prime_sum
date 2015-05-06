@@ -38,5 +38,8 @@
     <ClCompile Include="prime_sum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="rabin_miller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

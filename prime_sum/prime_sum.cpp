@@ -7,7 +7,11 @@
 int main()
 {
 	long long prime_sum = eratosthenes();
-	cout << "\n" << prime_sum;
+	cout << prime_sum << "\n";
+
+	prime_sum = rabin_miller();
+	cout << prime_sum << "\n";
+
 	cin.get();
 	cin.get();
 	return 0;
