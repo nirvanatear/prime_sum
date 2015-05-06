@@ -32,10 +32,10 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="prime_sum.cpp">
+    <ClCompile Include="eratosthenes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="eratosthenes.cpp">
+    <ClCompile Include="prime_sum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
